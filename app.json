@@ -1,0 +1,7 @@
+{
+  "name": "AwesomeProject",
+  "plugins": [
+    "@notifee/react-native"
+  ],
+  "displayName": "AwesomeProject"
+}
